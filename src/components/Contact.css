@@ -1,0 +1,24 @@
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    align-items: start;
+  }
+  
+  .contact-left h2 { margin-bottom:8px; }
+  .contact-info p { margin-bottom:8px; color:#444; }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width:100%;
+    padding:10px 12px;
+    margin-bottom:10px;
+    border-radius:8px;
+    border:1px solid #ddd;
+    font-size:14px;
+  }
+  
+  @media (max-width:900px) {
+    .contact-grid { grid-template-columns: 1fr; }
+  }
+  

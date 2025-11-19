@@ -1,0 +1,17 @@
+.footer {
+    background:#0033a0;
+    color:#fff;
+    padding:30px 0;
+  }
+  .footer-inner {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .footer .logo-txt { font-weight:700; font-size:18px; letter-spacing:1px; }
+  .footer .muted { color: rgba(255,255,255,0.8); margin-top:6px; }
+  .footer .right a { color: #ffd100; margin-left:18px; text-decoration:none; font-weight:600; }
+  @media (max-width:640px) {
+    .footer-inner { flex-direction:column; gap:12px; text-align:center; }
+  }
+  
