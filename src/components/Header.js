@@ -15,7 +15,7 @@ export default function Header() {
         <nav className="nav-menu">
           <a href="#home">Home</a>
           <a href="#about">About</a>
-          <a href="#services">Products</a>
+          <a href="#products">Products</a>
           <a href="#contact">Contact</a>
         </nav>
       </div>

@@ -16,7 +16,7 @@ function App() {
       <main>
         <Hero />
         <About />
-        {/* <Products /> */}
+        <Products />
         <WhyUs />
         {/* <Clients /> */}
         <Contact />

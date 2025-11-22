@@ -18,7 +18,7 @@ export default function Contact() {
             </p>
             <p>
               <strong>Address:</strong> SUN TECH INDUSTRIES, Gut No. 63,Shajapur
-              Chauful,Bombay Highway,Talika Aurangabad
+              Chauful,Bombay Highway,Talika Aurangabad,
               District-Aurangabad-431136
             </p>
           </div>
