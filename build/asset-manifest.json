@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SunFibe/static/css/main.04770199.css",
+    "main.js": "/SunFibe/static/js/main.0589db76.js",
+    "static/js/453.0dbeeedb.chunk.js": "/SunFibe/static/js/453.0dbeeedb.chunk.js",
+    "static/media/MudGaurd.png": "/SunFibe/static/media/MudGaurd.56d9d2384ee32499c8a6.png",
+    "static/media/SideCover.png": "/SunFibe/static/media/SideCover.33afcc044a7a6f2a2618.png",
+    "static/media/ChainGaurd.png": "/SunFibe/static/media/ChainGaurd.0012a9a6876d04adf4f1.png",
+    "static/media/Helmet.png": "/SunFibe/static/media/Helmet.693def24d82c818b61bd.png",
+    "static/media/imag1.png": "/SunFibe/static/media/imag1.9d1796feedb2d5acdaf5.png",
+    "static/media/AllParts.png": "/SunFibe/static/media/AllParts.f1160d44807e1270f24c.png",
+    "static/media/HeadLightCover.png": "/SunFibe/static/media/HeadLightCover.86d5d48c16452e8455fb.png",
+    "index.html": "/SunFibe/index.html",
+    "main.04770199.css.map": "/SunFibe/static/css/main.04770199.css.map",
+    "main.0589db76.js.map": "/SunFibe/static/js/main.0589db76.js.map",
+    "453.0dbeeedb.chunk.js.map": "/SunFibe/static/js/453.0dbeeedb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04770199.css",
+    "static/js/main.0589db76.js"
+  ]
+}
